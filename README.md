@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Data Science projects, data-driven dashboards and anything Python.**
 
-- 📫 How to reach me [tanushreekshirsagar18@gmail.com]
+- 📫 How to reach me **tanushreekshirsagar18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
