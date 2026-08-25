@@ -75,18 +75,3 @@ I'm always interested in collaborating on **Machine Learning, Data Science, Pyth
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanushreekshirsagar&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushreekshirsagar&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
-<p align="center">
-  💡 <i>Learning, building, and turning data into solutions.</i>
-</p>
