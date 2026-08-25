@@ -11,8 +11,8 @@ I'm particularly interested in building **data-driven applications, analytical s
 ## What I'm Currently Working On
 
 * Deepening my knowledge of **Machine Learning & MLOps** by building end-to-end projects.
-* Strengthening my understanding of **Machine Learning algorithms and model evaluation**
-* Improving my **SQL and EDA skills**
+* Strengthening my understanding of **Machine Learning algorithms** and **model evaluation**
+* Improving my **SQL** and **EDA skills**
 
 
 ---
@@ -65,7 +65,7 @@ I'm particularly interested in building **data-driven applications, analytical s
 
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on **Machine Learning, Data Science, Python, and data-driven projects**.
+I'm always interested in collaborating on **Machine Learning, Data Science, Python and data-driven projects**.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tanushreekshirsagar/" target="_blank">
